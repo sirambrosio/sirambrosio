@@ -24,3 +24,33 @@
 ## Philosophy
 
 I believe humans must have absolute cryptographic ownership over their clinical and biological history. At Ambrosio, we replace fragmented institutional EHR silos with a single, cryptographically sovereign source of truth anchored on Arweave permanently.
+
+## GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/sirambrosio)
+
+## What I'm Doing
+- **Living in the future** - Building decentralized biomedical infrastructure that guarantees true sovereignty.
+- **Architecting SmartWeave** - Writing immutable permanent contracts for biological intent management.
+- **Integrating AI** - Equipping autonomous agents (MCP) to safely ingest and compute over encrypted health data.
+
+## Connect
+[![Twitter](https://img.shields.io/badge/-@sirambrosio-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sirambrosio)
+[![LinkedIn](https://img.shields.io/badge/-Andre_Ambrosio-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreambrosio)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sirambrosio)
+[![Website](https://img.shields.io/badge/-biologicalsovereigntyprotocol.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://biologicalsovereigntyprotocol.com)
+
+---
+
+### Recognition & Vision
+- Founder of the **[Ambrosio Institute](https://ambrosio.institute)**
+- Core Architect of the **Biological Sovereignty Protocol**
+- Building the global baseline for zero-trust precision medicine and longevity research.
+
+<details>
+<summary>Random Facts</summary>
+
+- Treat cryptographic keys as the ultimate anchor of human freedom.
+- Powered by Brazilian coffee culture ☕
+- Deeply invested in longevity and biological computation.
+
+</details>
