@@ -1,56 +1,70 @@
-# Hi, I'm André 👋
-📍 **Brazil** | 🧬 **Decentralizing Biology** | 🚀 **Founder of Ambrosio Institute**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Engineering+Human+Vitality.;The+body+will+be+the+next+interface.">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=1000&color=111111&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Engineering+Human+Vitality.;The+body+will+be+the+next+interface." alt="Andre Ambrósio" />
+  </picture>
+</p>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Arweave](https://img.shields.io/badge/-Arweave-000000?style=flat-square&logo=arweave&logoColor=white)
-![SmartWeave](https://img.shields.io/badge/-SmartWeave-111111?style=flat-square&logo=smartcontracts&logoColor=white)
-![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-4285F4?style=flat-square&logo=anthropic&logoColor=white)
-![MacOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+<p align="center">
+  <b>Andre Ambrósio</b> · Brazil<br/>
+  Founder · Builder · Architect of Human Systems
+</p>
 
-> Deep in vibe-coding mode – building the future of sovereign human data at ludicrous speed. After years of siloed health infrastructure, decentralized biology feels like a breath of fresh air. 
-
-## Current Projects
-
-- 🧬 **[Biological Sovereignty Protocol](https://github.com/Biological-Sovereignty-Protocol)** - The open standard ensuring individuals own their biology. Powering the future of precision medicine.
-- 🏥 **[Ambrosio Institute](https://github.com/Ambrosio-Institute)** - The decentralized governance foundation stewarding the core immutable SmartWeave registry contracts for BSP.
-- 🤖 **[LogicaOS](https://github.com/sirambrosio/LogicaOS)** - Next-generation agentic OS orchestrator, seamlessly integrating native desktop AI workflows.
-- 📦 **[@bsp/sdk](https://github.com/Biological-Sovereignty-Protocol/bsp-sdk-typescript)** - The TypeScript standard gateway for applications to read and write to Biological Entity Objects (BEOs).
-- ⚡ **[bsp-mcp](https://github.com/Biological-Sovereignty-Protocol/bsp-mcp)** - Model Context Protocol (MCP) server that gives AI Assistants deep native integration with the BSP ecosystem.
-- 🚂 **[bsp-registry-api](https://github.com/Ambrosio-Institute/bsp-registry-api)** - The official protocol relayer service handling gas abstraction and the Guardian Social Recovery flow.
-- 📓 **[bsp-sdk-python](https://github.com/Biological-Sovereignty-Protocol/bsp-sdk-python)** - The official Python SDK, designed for data scientists and offline longevity analytics.
-
-## Philosophy
-
-I believe humans must have absolute cryptographic ownership over their clinical and biological history. At Ambrosio, we replace fragmented institutional EHR silos with a single, cryptographically sovereign source of truth anchored on Arweave permanently.
-
-## GitHub Activity
-![GitHub Contribution Graph](https://ghchart.rshah.org/sirambrosio)
-
-## What I'm Doing
-- **Living in the future** - Building decentralized biomedical infrastructure that guarantees true sovereignty.
-- **Architecting SmartWeave** - Writing immutable permanent contracts for biological intent management.
-- **Integrating AI** - Equipping autonomous agents (MCP) to safely ingest and compute over encrypted health data.
-
-## Connect
-[![Twitter](https://img.shields.io/badge/-@sirambrosio-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sirambrosio)
-[![LinkedIn](https://img.shields.io/badge/-Andre_Ambrosio-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreambrosio)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sirambrosio)
-[![Website](https://img.shields.io/badge/-biologicalsovereigntyprotocol.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://biologicalsovereigntyprotocol.com)
+<p align="center">
+  <a href="https://x.com/ambrosioof"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://instagram.com/andreambrosioof"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://andreambrosio.com"><img src="https://img.shields.io/badge/andreambrosio.com-111111?style=flat-square" /></a>
+</p>
 
 ---
 
-### Recognition & Vision
-- Founder of the **[Ambrosio Institute](https://ambrosio.institute)**
-- Core Architect of the **Biological Sovereignty Protocol**
-- Building the global baseline for zero-trust precision medicine and longevity research.
+**EN** — The current health model is reactive, late, expensive, and structurally broken. I'm building the infrastructure layer that changes this: continuous monitoring, biological data sovereignty, and AI as a decision layer for human vitality.
 
-<details>
-<summary>Random Facts</summary>
+**PT** — O modelo atual de saúde é reativo, tardio, caro e estruturalmente falho. Estou construindo a camada de infraestrutura que muda isso: monitoramento contínuo, soberania de dados biológicos e IA como camada de decisão para a vitalidade humana.
 
-- Treat cryptographic keys as the ultimate anchor of human freedom.
-- Powered by Brazilian coffee culture ☕
-- Deeply invested in longevity and biological computation.
+---
 
-</details>
+## Building · Construindo
+
+| | |
+|---|---|
+| **[Ambrosio Company](https://ambrosio.company)** | Holding estratégica · Strategic holding |
+| **[Ambrosio Health](https://ambrosio.health)** | Engineering Human Vitality — saúde contínua, longevidade como engenharia, IA aplicada ao corpo |
+| **[Ambrosio Institute](https://github.com/Ambrosio-Institute)** | The decentralized governance foundation stewarding the BSP core contracts |
+| **[Biological Sovereignty Protocol](https://github.com/Biological-Sovereignty-Protocol)** | Open standard ensuring individuals own their biology. The cryptographic backbone of precision medicine |
+
+---
+
+## Open Source · Código Aberto
+
+| Project | Description |
+|---|---|
+| **[bsp-sdk-typescript](https://github.com/Biological-Sovereignty-Protocol/bsp-sdk-typescript)** | TypeScript gateway for reading and writing Biological Entity Objects (BEOs) |
+| **[bsp-sdk-python](https://github.com/Biological-Sovereignty-Protocol/bsp-sdk-python)** | Python SDK for data scientists and longevity analytics |
+| **[bsp-mcp](https://github.com/Biological-Sovereignty-Protocol/bsp-mcp)** | MCP server — AI-native integration with the BSP ecosystem |
+| **[bsp-spec](https://github.com/Biological-Sovereignty-Protocol/bsp-spec)** | The open protocol specification |
+| **[bsp-docs](https://github.com/Biological-Sovereignty-Protocol/bsp-docs)** | Protocol documentation |
+
+---
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-5A45FF?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arweave-000000?style=flat-square&logo=arweave&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    "Você não tem saúde. Você tem intervalos sem diagnóstico."<br/>
+    "You don't have health. You have intervals without diagnosis."
+  </sub>
+</p>
